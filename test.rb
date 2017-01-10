@@ -8,3 +8,4 @@ Chaomian and fir-rice is not real chinese food, but I would eat it if I am hungr
 when can we go home?
 I am going to keep doing it until it become instint. I mean using github.
 we are going to talk about branching in github, yay!
+OK, if nobody noticed then I will make this as a secert dairy for this cohort... 
