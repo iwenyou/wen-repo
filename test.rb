@@ -10,3 +10,4 @@ I am going to keep doing it until it become instint. I mean using github.
 we are going to talk about branching in github, yay!
 OK, if nobody noticed then I will make this as a secert dairy for this cohort... 
 Some bonus interview prep tips~ (how do you see yourself in five years?)lol
+  cool~
